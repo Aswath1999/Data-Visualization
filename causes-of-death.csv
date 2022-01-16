@@ -1,0 +1,411 @@
+statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_code;1_variable_code;2_variable_code;2_variable_label;2_variable_code;2_variable_code;BEV002__Deaths__number
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS02;Certain infectious and parasitic diseases;16999
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS03;Tuberculosis, including its sequelae;285
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS04;Meningococcal infection;23
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS05;Viral hepatitis;789
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS06;HIV disease;343
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS07;Neoplasms;238396
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS08;Malignant neoplasms;230725
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS09;Malignant neoplasms of lip, oral cavity, pharynx;5457
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS10;Malignant neoplasms of oesophagus;5679
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS11;Malignant neoplasms of stomach;9231
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS12;Malignant neoplasms of colon;16641
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS13;Malig. neopl. of rectum,anus,rectosigmoid junction;8122
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS14;Malignant neoplasms of liver, bile ducts, pancreas;29763
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS15;Malig. neoplasms of liver, intrahepatic bile ducts;8036
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS16;Malignant neoplasms of pancreas;18052
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS17;Malig. neoplasms of larynx,trachea,bronchus,lung;47279
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS18;Malignant neoplasms of bronchus and lung;45776
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS19;Melanoma and other malignant neoplasms of skin;3824
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS20;Malignant melanoma of skin;2926
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS21;Malignant neoplasms of breast;18736
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS22;Malig. neoplasms of genital organs, urinary tract;41304
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS23;Malignant neoplasms of cervix uteri;1562
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS24;Malig. neopl. of corpus uteri,uterus, part unspec.;2600
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS25;Malignant neoplasms of ovary;5486
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS26;Malignant neoplasms of prostate;14417
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS27;Malignant neoplasms of kidney, except renal pelvis;5354
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS28;Malignant neoplasms of bladder;5946
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS29;Malig. neopl.of lymphoid,haematopoietic,rel.tissue;19721
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS30;Leukaemia;8252
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS31;Benign neoplasms;755
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS32;Diseases of the blood and blood-forming organs;3218
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS33;Endocrine, nutritional and metabolic diseases;31249
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS34;Diabetes mellitus;23059
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS35;Mental and behavioural disorders;46258
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS36;Mental and behav. disorders due to use of alcohol;5452
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS37;Mental a.behav. dis. due to oth. psychoactive sub.;848
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS38;Diseases of the nervous system and sensory organs;29799
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS39;Meningitis;137
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS40;Diseases of the circulatory system;338687
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS41;Hypertensive diseases;40635
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS42;Ischaemic heart diseases;122274
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS43;Acute or subsequent myocardial infarction;48669
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS44;Other forms of heart disease;77232
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS45;Other diseases of endocardium;13556
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS46;Cerebrovascular diseases;55956
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS47;Stroke, not specified as haemorrhage or infarction;14264
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS48;Diseases of arteries, arterioles and capillaries;14628
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS49;Diseases of the respiratory system;64414
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS50;Influenza;410
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS51;Pneumonia;18705
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS52;Chronic lower respiratory diseases;32951
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS53;Asthma;967
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS81;COVID-19, virus detected;-
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS82;COVID-19, virus not detected;-
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS54;Diseases of the digestive system;40673
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS55;Gastric, duodenal, peptic, gastrojejunal ulcer;2411
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS56;Diseases of liver;15863
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS57;Alcohol. liver dis.,chr. hepatitis,fibrosis,cirrh.;14483
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS58;Diseases of the skin and subcutaneous tissue;1594
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS59;Diseases of musculoskeletal sys. a. connec. tissue;4011
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS60;Chronic polyarthritis and arthrosis;1029
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS61;Diseases of the genitourinary system;23802
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS62;Disorders of kidney;18053
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS63;Pregnancy, childbirth and the puerperium;23
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS64;Certain conditions origin. in the perinatal period;1501
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS65;Congenital malform.,deform. a. chromosomal abnorm.;2001
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS66;Congenital malformations of the nervous system;195
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS67;Congenital malformations of the circulatory system;568
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS68;Symp., signs a. abnormal clinical a. lab. findings;29894
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS69;Sudden infant death syndrome;137
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS70;Other ill-defined and unknown causes of mortality;25228
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS71;External causes of morbidity and mortality;38383
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS72;Accidents, including their sequelae;26718
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS73;Transport accidents;3547
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS74;Falls;14435
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS75;Accidental drowning and submersion;447
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS76;Exposure to smoke, fire and flames;325
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS77;Accid. poisoning by and exposure to noxious subst.;947
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS78;Intentional self-harm;9838
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS79;Assault;372
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS80;Event of undetermined intent;1413
+23211;Causes of death statistics;JAHR;Year;2016;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS01;Total;910902
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS02;Certain infectious and parasitic diseases;17285
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS03;Tuberculosis, including its sequelae;288
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS04;Meningococcal infection;27
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS05;Viral hepatitis;738
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS06;HIV disease;311
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS07;Neoplasms;235686
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS08;Malignant neoplasms;227595
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS09;Malignant neoplasms of lip, oral cavity, pharynx;5365
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS10;Malignant neoplasms of oesophagus;5499
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS11;Malignant neoplasms of stomach;8966
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS12;Malignant neoplasms of colon;15715
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS13;Malig. neopl. of rectum,anus,rectosigmoid junction;7984
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS14;Malignant neoplasms of liver, bile ducts, pancreas;29714
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS15;Malig. neoplasms of liver, intrahepatic bile ducts;7910
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS16;Malignant neoplasms of pancreas;18005
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS17;Malig. neoplasms of larynx,trachea,bronchus,lung;46456
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS18;Malignant neoplasms of bronchus and lung;45032
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS19;Melanoma and other malignant neoplasms of skin;3764
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS20;Malignant melanoma of skin;2835
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS21;Malignant neoplasms of breast;18590
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS22;Malig. neoplasms of genital organs, urinary tract;40968
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS23;Malignant neoplasms of cervix uteri;1587
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS24;Malig. neopl. of corpus uteri,uterus, part unspec.;2707
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS25;Malignant neoplasms of ovary;5373
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS26;Malignant neoplasms of prostate;14318
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS27;Malignant neoplasms of kidney, except renal pelvis;5140
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS28;Malignant neoplasms of bladder;5706
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS29;Malig. neopl.of lymphoid,haematopoietic,rel.tissue;19537
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS30;Leukaemia;8174
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS31;Benign neoplasms;768
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS32;Diseases of the blood and blood-forming organs;3684
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS33;Endocrine, nutritional and metabolic diseases;33908
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS34;Diabetes mellitus;24855
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS35;Mental and behavioural disorders;52637
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS36;Mental and behav. disorders due to use of alcohol;5112
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS37;Mental a.behav. dis. due to oth. psychoactive sub.;671
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS38;Diseases of the nervous system and sensory organs;32393
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS39;Meningitis;126
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS40;Diseases of the circulatory system;344524
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS41;Hypertensive diseases;43578
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS42;Ischaemic heart diseases;125614
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS43;Acute or subsequent myocardial infarction;46966
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS44;Other forms of heart disease;78558
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS45;Other diseases of endocardium;13906
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS46;Cerebrovascular diseases;55404
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS47;Stroke, not specified as haemorrhage or infarction;12587
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS48;Diseases of arteries, arterioles and capillaries;12740
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS49;Diseases of the respiratory system;68408
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS50;Influenza;1176
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS51;Pneumonia;19578
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS52;Chronic lower respiratory diseases;35513
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS53;Asthma;971
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS81;COVID-19, virus detected;-
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS82;COVID-19, virus not detected;-
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS54;Diseases of the digestive system;41038
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS55;Gastric, duodenal, peptic, gastrojejunal ulcer;2328
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS56;Diseases of liver;15872
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS57;Alcohol. liver dis.,chr. hepatitis,fibrosis,cirrh.;14322
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS58;Diseases of the skin and subcutaneous tissue;1565
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS59;Diseases of musculoskeletal sys. a. connec. tissue;4812
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS60;Chronic polyarthritis and arthrosis;1223
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS61;Diseases of the genitourinary system;23471
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS62;Disorders of kidney;17616
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS63;Pregnancy, childbirth and the puerperium;22
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS64;Certain conditions origin. in the perinatal period;1483
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS65;Congenital malform.,deform. a. chromosomal abnorm.;2070
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS66;Congenital malformations of the nervous system;180
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS67;Congenital malformations of the circulatory system;610
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS68;Symp., signs a. abnormal clinical a. lab. findings;29429
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS69;Sudden infant death syndrome;130
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS70;Other ill-defined and unknown causes of mortality;25168
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS71;External causes of morbidity and mortality;39853
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS72;Accidents, including their sequelae;28424
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS73;Transport accidents;3407
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS74;Falls;14678
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS75;Accidental drowning and submersion;382
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS76;Exposure to smoke, fire and flames;335
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS77;Accid. poisoning by and exposure to noxious subst.;1096
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS78;Intentional self-harm;9235
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS79;Assault;352
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS80;Event of undetermined intent;1800
+23211;Causes of death statistics;JAHR;Year;2017;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS01;Total;932263
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS02;Certain infectious and parasitic diseases;17797
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS03;Tuberculosis, including its sequelae;291
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS04;Meningococcal infection;29
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS05;Viral hepatitis;674
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS06;HIV disease;294
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS07;Neoplasms;238345
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS08;Malignant neoplasms;230031
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS09;Malignant neoplasms of lip, oral cavity, pharynx;5412
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS10;Malignant neoplasms of oesophagus;5636
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS11;Malignant neoplasms of stomach;8861
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS12;Malignant neoplasms of colon;15948
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS13;Malig. neopl. of rectum,anus,rectosigmoid junction;8257
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS14;Malignant neoplasms of liver, bile ducts, pancreas;30045
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS15;Malig. neoplasms of liver, intrahepatic bile ducts;7990
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS16;Malignant neoplasms of pancreas;18332
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS17;Malig. neoplasms of larynx,trachea,bronchus,lung;46283
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS18;Malignant neoplasms of bronchus and lung;44853
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS19;Melanoma and other malignant neoplasms of skin;3908
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS20;Malignant melanoma of skin;2942
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS21;Malignant neoplasms of breast;18786
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS22;Malig. neoplasms of genital organs, urinary tract;41657
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS23;Malignant neoplasms of cervix uteri;1612
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS24;Malig. neopl. of corpus uteri,uterus, part unspec.;2631
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS25;Malignant neoplasms of ovary;5326
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS26;Malignant neoplasms of prostate;14963
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS27;Malignant neoplasms of kidney, except renal pelvis;5039
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS28;Malignant neoplasms of bladder;5702
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS29;Malig. neopl.of lymphoid,haematopoietic,rel.tissue;19913
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS30;Leukaemia;8270
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS31;Benign neoplasms;765
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS32;Diseases of the blood and blood-forming organs;3781
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS33;Endocrine, nutritional and metabolic diseases;34640
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS34;Diabetes mellitus;24856
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS35;Mental and behavioural disorders;58053
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS36;Mental and behav. disorders due to use of alcohol;5103
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS37;Mental a.behav. dis. due to oth. psychoactive sub.;724
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS38;Diseases of the nervous system and sensory organs;34892
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS39;Meningitis;140
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS40;Diseases of the circulatory system;345274
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS41;Hypertensive diseases;44275
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS42;Ischaemic heart diseases;123975
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS43;Acute or subsequent myocardial infarction;46207
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS44;Other forms of heart disease;78966
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS45;Other diseases of endocardium;14912
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS46;Cerebrovascular diseases;55287
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS47;Stroke, not specified as haemorrhage or infarction;12024
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS48;Diseases of arteries, arterioles and capillaries;12909
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS49;Diseases of the respiratory system;71719
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS50;Influenza;3029
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS51;Pneumonia;20227
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS52;Chronic lower respiratory diseases;36337
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS53;Asthma;1034
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS81;COVID-19, virus detected;-
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS82;COVID-19, virus not detected;-
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS54;Diseases of the digestive system;41074
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS55;Gastric, duodenal, peptic, gastrojejunal ulcer;2426
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS56;Diseases of liver;15778
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS57;Alcohol. liver dis.,chr. hepatitis,fibrosis,cirrh.;14170
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS58;Diseases of the skin and subcutaneous tissue;1597
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS59;Diseases of musculoskeletal sys. a. connec. tissue;5213
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS60;Chronic polyarthritis and arthrosis;1340
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS61;Diseases of the genitourinary system;24719
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS62;Disorders of kidney;18402
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS63;Pregnancy, childbirth and the puerperium;25
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS64;Certain conditions origin. in the perinatal period;1464
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS65;Congenital malform.,deform. a. chromosomal abnorm.;2134
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS66;Congenital malformations of the nervous system;166
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS67;Congenital malformations of the circulatory system;606
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS68;Symp., signs a. abnormal clinical a. lab. findings;32593
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS69;Sudden infant death syndrome;119
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS70;Other ill-defined and unknown causes of mortality;27988
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS71;External causes of morbidity and mortality;41554
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS72;Accidents, including their sequelae;29874
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS73;Transport accidents;3622
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS74;Falls;16201
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS75;Accidental drowning and submersion;444
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS76;Exposure to smoke, fire and flames;306
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS77;Accid. poisoning by and exposure to noxious subst.;1120
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS78;Intentional self-harm;9396
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS79;Assault;335
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS80;Event of undetermined intent;1890
+23211;Causes of death statistics;JAHR;Year;2018;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS01;Total;954874
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS02;Certain infectious and parasitic diseases;16194
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS03;Tuberculosis, including its sequelae;286
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS04;Meningococcal infection;20
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS05;Viral hepatitis;584
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS06;HIV disease;285
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS07;Neoplasms;239591
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS08;Malignant neoplasms;231318
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS09;Malignant neoplasms of lip, oral cavity, pharynx;5367
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS10;Malignant neoplasms of oesophagus;5842
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS11;Malignant neoplasms of stomach;8527
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS12;Malignant neoplasms of colon;15830
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS13;Malig. neopl. of rectum,anus,rectosigmoid junction;8137
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS14;Malignant neoplasms of liver, bile ducts, pancreas;31112
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS15;Malig. neoplasms of liver, intrahepatic bile ducts;8168
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS16;Malignant neoplasms of pancreas;19222
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS17;Malig. neoplasms of larynx,trachea,bronchus,lung;46311
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS18;Malignant neoplasms of bronchus and lung;44847
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS19;Melanoma and other malignant neoplasms of skin;4097
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS20;Malignant melanoma of skin;3021
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS21;Malignant neoplasms of breast;18712
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS22;Malig. neoplasms of genital organs, urinary tract;41981
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS23;Malignant neoplasms of cervix uteri;1597
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS24;Malig. neopl. of corpus uteri,uterus, part unspec.;2659
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS25;Malignant neoplasms of ovary;5291
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS26;Malignant neoplasms of prostate;15040
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS27;Malignant neoplasms of kidney, except renal pelvis;5150
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS28;Malignant neoplasms of bladder;5638
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS29;Malig. neopl.of lymphoid,haematopoietic,rel.tissue;19717
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS30;Leukaemia;8260
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS31;Benign neoplasms;829
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS32;Diseases of the blood and blood-forming organs;3794
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS33;Endocrine, nutritional and metabolic diseases;33626
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS34;Diabetes mellitus;23895
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS35;Mental and behavioural disorders;57839
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS36;Mental and behav. disorders due to use of alcohol;4806
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS37;Mental a.behav. dis. due to oth. psychoactive sub.;662
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS38;Diseases of the nervous system and sensory organs;34225
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS39;Meningitis;126
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS40;Diseases of the circulatory system;331211
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS41;Hypertensive diseases;43277
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS42;Ischaemic heart diseases;119082
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS43;Acute or subsequent myocardial infarction;44282
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS44;Other forms of heart disease;73605
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS45;Other diseases of endocardium;15156
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS46;Cerebrovascular diseases;53119
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS47;Stroke, not specified as haemorrhage or infarction;10702
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS48;Diseases of arteries, arterioles and capillaries;12105
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS49;Diseases of the respiratory system;67021
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS50;Influenza;1659
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS51;Pneumonia;18514
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS52;Chronic lower respiratory diseases;35094
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS53;Asthma;1077
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS81;COVID-19, virus detected;-
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS82;COVID-19, virus not detected;-
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS54;Diseases of the digestive system;41421
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS55;Gastric, duodenal, peptic, gastrojejunal ulcer;2437
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS56;Diseases of liver;15570
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS57;Alcohol. liver dis.,chr. hepatitis,fibrosis,cirrh.;14023
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS58;Diseases of the skin and subcutaneous tissue;1719
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS59;Diseases of musculoskeletal sys. a. connec. tissue;5367
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS60;Chronic polyarthritis and arthrosis;1392
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS61;Diseases of the genitourinary system;24740
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS62;Disorders of kidney;18279
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS63;Pregnancy, childbirth and the puerperium;25
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS64;Certain conditions origin. in the perinatal period;1472
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS65;Congenital malform.,deform. a. chromosomal abnorm.;2084
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS66;Congenital malformations of the nervous system;203
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS67;Congenital malformations of the circulatory system;601
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS68;Symp., signs a. abnormal clinical a. lab. findings;37412
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS69;Sudden infant death syndrome;107
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS70;Other ill-defined and unknown causes of mortality;33068
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS71;External causes of morbidity and mortality;41779
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS72;Accidents, including their sequelae;30065
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS73;Transport accidents;3373
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS74;Falls;16657
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS75;Accidental drowning and submersion;399
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS76;Exposure to smoke, fire and flames;343
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS77;Accid. poisoning by and exposure to noxious subst.;1208
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS78;Intentional self-harm;9041
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS79;Assault;324
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS80;Event of undetermined intent;2232
+23211;Causes of death statistics;JAHR;Year;2019;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS01;Total;939520
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS02;Certain infectious and parasitic diseases;15085
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS03;Tuberculosis, including its sequelae;275
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS04;Meningococcal infection;17
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS05;Viral hepatitis;523
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS06;HIV disease;272
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS07;Neoplasms;239552
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS08;Malignant neoplasms;231271
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS09;Malignant neoplasms of lip, oral cavity, pharynx;5352
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS10;Malignant neoplasms of oesophagus;5954
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS11;Malignant neoplasms of stomach;8353
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS12;Malignant neoplasms of colon;15692
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS13;Malig. neopl. of rectum,anus,rectosigmoid junction;8033
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS14;Malignant neoplasms of liver, bile ducts, pancreas;31219
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS15;Malig. neoplasms of liver, intrahepatic bile ducts;8457
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS16;Malignant neoplasms of pancreas;18922
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS17;Malig. neoplasms of larynx,trachea,bronchus,lung;46085
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS18;Malignant neoplasms of bronchus and lung;44786
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS19;Melanoma and other malignant neoplasms of skin;3988
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS20;Malignant melanoma of skin;2940
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS21;Malignant neoplasms of breast;18591
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS22;Malig. neoplasms of genital organs, urinary tract;42691
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS23;Malignant neoplasms of cervix uteri;1546
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS24;Malig. neopl. of corpus uteri,uterus, part unspec.;2758
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS25;Malignant neoplasms of ovary;5265
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS26;Malignant neoplasms of prostate;15403
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS27;Malignant neoplasms of kidney, except renal pelvis;5155
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS28;Malignant neoplasms of bladder;5877
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS29;Malig. neopl.of lymphoid,haematopoietic,rel.tissue;20061
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS30;Leukaemia;8357
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS31;Benign neoplasms;835
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS32;Diseases of the blood and blood-forming organs;4391
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS33;Endocrine, nutritional and metabolic diseases;36628
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS34;Diabetes mellitus;25807
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS35;Mental and behavioural disorders;59613
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS36;Mental and behav. disorders due to use of alcohol;5012
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS37;Mental a.behav. dis. due to oth. psychoactive sub.;695
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS38;Diseases of the nervous system and sensory organs;35430
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS39;Meningitis;102
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS40;Diseases of the circulatory system;338001
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS41;Hypertensive diseases;47900
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS42;Ischaemic heart diseases;121462
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS43;Acute or subsequent myocardial infarction;44529
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS44;Other forms of heart disease;73558
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS45;Other diseases of endocardium;14704
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS46;Cerebrovascular diseases;53308
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS47;Stroke, not specified as haemorrhage or infarction;10918
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS48;Diseases of arteries, arterioles and capillaries;11890
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS49;Diseases of the respiratory system;61348
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS50;Influenza;1307
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS51;Pneumonia;15899
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS52;Chronic lower respiratory diseases;32922
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS53;Asthma;1046
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS81;COVID-19, virus detected;38510
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS82;COVID-19, virus not detected;1248
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS54;Diseases of the digestive system;42507
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS55;Gastric, duodenal, peptic, gastrojejunal ulcer;2569
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS56;Diseases of liver;16286
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS57;Alcohol. liver dis.,chr. hepatitis,fibrosis,cirrh.;14700
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS58;Diseases of the skin and subcutaneous tissue;1721
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS59;Diseases of musculoskeletal sys. a. connec. tissue;5713
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS60;Chronic polyarthritis and arthrosis;1439
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS61;Diseases of the genitourinary system;25390
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS62;Disorders of kidney;18263
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS63;Pregnancy, childbirth and the puerperium;28
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS64;Certain conditions origin. in the perinatal period;1351
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS65;Congenital malform.,deform. a. chromosomal abnorm.;2030
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS66;Congenital malformations of the nervous system;160
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS67;Congenital malformations of the circulatory system;584
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS68;Symp., signs a. abnormal clinical a. lab. findings;35229
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS69;Sudden infant death syndrome;84
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS70;Other ill-defined and unknown causes of mortality;30745
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS71;External causes of morbidity and mortality;41794
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS72;Accidents, including their sequelae;29915
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS73;Transport accidents;3041
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS74;Falls;17211
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS75;Accidental drowning and submersion;371
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS76;Exposure to smoke, fire and flames;336
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS77;Accid. poisoning by and exposure to noxious subst.;1203
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS78;Intentional self-harm;9206
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS79;Assault;364
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS80;Event of undetermined intent;2239
+23211;Causes of death statistics;JAHR;Year;2020;DINSG;Germany;DG;Germany;TODUR1;Causes of death;TODESURS01;Total;985572
