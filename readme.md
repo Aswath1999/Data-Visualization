@@ -1,0 +1,1 @@
+![](images/average-life.png)
